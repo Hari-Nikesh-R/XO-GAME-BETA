@@ -1,7 +1,7 @@
 # XO-GAME-BETA
 Console Application of XO Game.
 
-Most of us like to play XO game from our Childhood. 
+Most of us like to play XO game.
 
 Here is a simple Java code for XO game in console application. 
 
